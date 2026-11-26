@@ -6,10 +6,10 @@ A hands-on project documenting Linux command line basics, package management (dn
 
 | # | Task | What it covers |
 |---|------|----------------|
-| 1 | [Launching an Amazon Linux EC2 Instance](tasks/task-1-launch-ec2-instance.md) | Creating a cloud server on AWS and connecting to it remotely |
-| 2 | [Basic Linux Command Line](tasks/task-2-linux-command-line.md) | Navigating and managing files with everyday Linux commands |
-| 3 | [Package Management with dnf/yum](tasks/task-3-package-management.md) | Installing, updating, and removing software on Amazon Linux |
-| 4 | [Installing Python and Running a Program](tasks/task-4-python-deployment.md) | Setting up Python and running a script on the server |
+| 1 | [Launching an Amazon Linux EC2 Instance](task-1.md) | Creating a cloud server on AWS and connecting to it remotely |
+| 2 | [Basic Linux Command Line](task-2.md) | Navigating and managing files with everyday Linux commands |
+| 3 | [Package Management with dnf/yum](task-3.md) | Installing, updating, and removing software on Amazon Linux |
+| 4 | [Installing Python and Running a Program](task-4.md) | Setting up Python and running a script on the server |
 
 ## 🧠 What I Learned
 - How to launch and connect to a cloud server on AWS EC2
